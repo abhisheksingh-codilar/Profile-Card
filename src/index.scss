@@ -1,0 +1,17 @@
+$minimum-heigth:100vh;
+$mycolor:#000;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  min-height: $minimum-heigth;
+ width: 100%;
+//  background-image:linear-gradient(to bottom right,#ffffff,#000000) ;
+ background-color: rgba(84, 53, 93, 0.246);
+ 
+// backdrop-filter: blur(10px);
+}
+
+
